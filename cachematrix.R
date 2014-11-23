@@ -14,7 +14,7 @@
     ## set the value of the inverse
     ## get the value of the inverse
 ## This function does not solve for the inverse, but the function can cache its 
-## computed inverse from the second function, cacheSolve
+## computed inverse from the second function, cacheSolve.
 
 makeCacheMatrix <- function(x = matrix()) {
   ##initialize variable 'inverse'
